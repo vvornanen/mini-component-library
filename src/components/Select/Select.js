@@ -55,6 +55,7 @@ const SelectInput = styled.select`
 `;
 
 const SelectIcon = styled(Icon)`
+  margin-block: -2px;
   margin-inline-end: -6px;
 `;
 
